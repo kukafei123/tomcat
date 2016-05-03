@@ -1,3 +1,8 @@
 123321kukafei
 <web-app version="3.0">
  <display-name>Restaurant</display-name>
+<servlet>
+        <servlet-name>noodles</servlet-name>
+        <servlet-class>
+            com.netease.NoodlesServlet
+        </servlet-class>
